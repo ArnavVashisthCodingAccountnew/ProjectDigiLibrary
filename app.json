@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "DigiLibrary ",
+    "slug": "snack-a020329e-0778-450e-825d-1caa4146a759",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.spoorthipradeepaadi.snacka020329e0778450e825d1caa4146a759"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ffe1cd13-15f0-40b9-a826-9667f6ac2a5b"
+      }
+    }
+  }
+}
